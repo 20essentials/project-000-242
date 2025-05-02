@@ -16,7 +16,7 @@ body {
   flex-wrap: wrap;
   place-content: center;
   background-color: #000;
-  background-image: url('assets/texture.svg');
+  background-image: url('texture.svg');
 }
 
 .container {
